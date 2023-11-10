@@ -1,0 +1,70 @@
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+   color: purple;
+    background-image:   url(realistic-blurred-spring-background_52683-55622.jpg);
+    
+    
+
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    
+    align-items: center;
+    margin-left: 300px;
+    padding: 23px;
+    background-color: beige;
+    border: 6px solid rgb(212, 82, 104);
+    border-radius: 19px;
+    background: rgba(196, 117, 117, 0.25);
+    background: rgba(171, 92, 92, 0.25);
+box-shadow: 0 8px 32px 0 rgba(129, 135, 224, 0.37);
+backdrop-filter: blur( 2px );
+-webkit-backdrop-filter: blur( 2px );
+border-radius: 10px;
+border: 1px solid rgba(206, 110, 110, 0.18);
+
+width: 567px;
+height: 345px;
+cursor: pointer;
+}
+input{
+    background-color: antiquewhite;
+    border-radius: 4px;
+    color: brown;
+    height: 2rem;
+    border: 0px solid;
+}
+
+
+
+label {
+    font-weight: bold;
+}
+h1{
+  color: rgb(76, 7, 76);
+    text-align: center;
+    margin-left: 60px;
+    font-size: 50px;
+    
+}
+h2{
+    font-size: 30px;
+  font-family: 'Times New Roman', Times, serif;
+}
+button{
+    width: 100%;
+    padding: 10px;
+    background-color: rgb(134, 55, 134);
+    color: pink;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+
+ }
+ p{ 
+    margin-top: 10px;
+    font-weight: bold;
+ }
